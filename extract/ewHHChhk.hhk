@@ -1,0 +1,128 @@
+;Made with eTextWizard ;Made with eTextWizard V 1.95 , 2005-2-25 9:55:32 ,A Easy and Quick Auto Chm File Maker
+; eTextWizard :    A Quick Chm File Maker
+;Guohua Software   http://www.eTextWizard.com 
+
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name= "GENERATOR" content= "GuohuaSoft& reg; eTextWizard  V 1.95  Build 520"><!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<!--Made with eTextWizard  , ,A Easy and Quick Auto Chm File Maker--><!-- eTextWizard :    A Quick Chm File Maker--><!--Guohua Software   http://www.eTextWizard.com --><OBJECT type="text/site properties">
+    <param name="Window Styles" value="0x800627">
+<param name="Font" value="Arial,9,0">
+</OBJECT>
+
+<UL>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 自由/开放源码软件（FLOSS）">        <param name="Local" value="apa.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 关于本书 / 后记">        <param name="Local" value="apb.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 关于本书 / 关于作者">        <param name="Local" value="apbs02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 关于本书 / 关于译者">        <param name="Local" value="apbs03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 关于本书 / 关于简体中文译本">        <param name="Local" value="apbs04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 修订记录 / 时间表">        <param name="Local" value="apc.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 修订记录 / 术语表">        <param name="Local" value="apcs02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 介绍 / 简介">        <param name="Local" value="ch01.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 介绍 / Python的特色">        <param name="Local" value="ch01s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 介绍 / 为什么不使用Perl？">        <param name="Local" value="ch01s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 介绍 / 程序员的话">        <param name="Local" value="ch01s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 安装Python / Linux和BSD用户">        <param name="Local" value="ch02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 安装Python / Windows用户">        <param name="Local" value="ch02s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 安装Python / 概括">        <param name="Local" value="ch02s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 最初的步骤 / 简介">        <param name="Local" value="ch03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 最初的步骤 / 使用带提示符的解释器">        <param name="Local" value="ch03s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 最初的步骤 / 挑选一个编辑器">        <param name="Local" value="ch03s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 最初的步骤 / 使用源文件">        <param name="Local" value="ch03s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 最初的步骤 / 可执行的Python程序">        <param name="Local" value="ch03s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 最初的步骤 / 获取帮助">        <param name="Local" value="ch03s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 最初的步骤 / 概括">        <param name="Local" value="ch03s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 字面意义上的常量">        <param name="Local" value="ch04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 数">        <param name="Local" value="ch04s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 字符串">        <param name="Local" value="ch04s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 变量">        <param name="Local" value="ch04s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 标识符的命名">        <param name="Local" value="ch04s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 数据类型">        <param name="Local" value="ch04s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 对象">        <param name="Local" value="ch04s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 逻辑行与物理行">        <param name="Local" value="ch04s08.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 缩进">        <param name="Local" value="ch04s09.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 基本概念 / 概括">        <param name="Local" value="ch04s10.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 运算符与表达式 / 简介">        <param name="Local" value="ch05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 运算符与表达式 / 运算符">        <param name="Local" value="ch05s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 运算符与表达式 / 运算符优先级">        <param name="Local" value="ch05s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 运算符与表达式 / 表达式">        <param name="Local" value="ch05s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 运算符与表达式 / 概括">        <param name="Local" value="ch05s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 控制流 / 简介">        <param name="Local" value="ch06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 控制流 / if语句">        <param name="Local" value="ch06s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 控制流 / while语句">        <param name="Local" value="ch06s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 控制流 / for循环">        <param name="Local" value="ch06s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 控制流 / break语句">        <param name="Local" value="ch06s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 控制流 / continue语句">        <param name="Local" value="ch06s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 控制流 / 概括">        <param name="Local" value="ch06s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / 简介">        <param name="Local" value="ch07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / 函数形参">        <param name="Local" value="ch07s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / 局部变量">        <param name="Local" value="ch07s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / 默认参数值">        <param name="Local" value="ch07s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / 关键参数">        <param name="Local" value="ch07s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / return语句">        <param name="Local" value="ch07s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / DocStrings">        <param name="Local" value="ch07s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 函数 / 概括">        <param name="Local" value="ch07s08.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 模块 / 简介">        <param name="Local" value="ch08.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 模块 / 字节编译的.pyc文件">        <param name="Local" value="ch08s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 模块 / from..import语句">        <param name="Local" value="ch08s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 模块 / 模块的__name__">        <param name="Local" value="ch08s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 模块 / 制造你自己的模块">        <param name="Local" value="ch08s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 模块 / dir()函数">        <param name="Local" value="ch08s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 模块 / 概括">        <param name="Local" value="ch08s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 简介">        <param name="Local" value="ch09.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 列表">        <param name="Local" value="ch09s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 元组">        <param name="Local" value="ch09s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 字典">        <param name="Local" value="ch09s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 序列">        <param name="Local" value="ch09s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 参考">        <param name="Local" value="ch09s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 更多字符串的内容">        <param name="Local" value="ch09s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 数据结构 / 概括">        <param name="Local" value="ch09s08.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 解决问题——编写一个Python脚本 / 问题">        <param name="Local" value="ch10.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 解决问题——编写一个Python脚本 / 解决方案">        <param name="Local" value="ch10s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 解决问题——编写一个Python脚本 / 软件开发过程">        <param name="Local" value="ch10s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 解决问题——编写一个Python脚本 / 概括">        <param name="Local" value="ch10s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / 简介">        <param name="Local" value="ch11.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / self">        <param name="Local" value="ch11s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / 类">        <param name="Local" value="ch11s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / 对象的方法">        <param name="Local" value="ch11s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / __init__方法">        <param name="Local" value="ch11s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / 类与对象的方法">        <param name="Local" value="ch11s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / 继承">        <param name="Local" value="ch11s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 面向对象的编程 / 概括">        <param name="Local" value="ch11s08.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 输入/输出 / 文件">        <param name="Local" value="ch12.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 输入/输出 / 储存器">        <param name="Local" value="ch12s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 输入/输出 / 概括">        <param name="Local" value="ch12s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 异常 / 错误">        <param name="Local" value="ch13.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 异常 / try..except">        <param name="Local" value="ch13s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 异常 / 引发异常">        <param name="Local" value="ch13s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 异常 / try..finally">        <param name="Local" value="ch13s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 异常 / 概括">        <param name="Local" value="ch13s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / Python标准库 / 简介">        <param name="Local" value="ch14.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / Python标准库 / sys模块">        <param name="Local" value="ch14s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / Python标准库 / os模块">        <param name="Local" value="ch14s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / Python标准库 / 概括">        <param name="Local" value="ch14s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / 特殊的方法">        <param name="Local" value="ch15.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / 单语句块">        <param name="Local" value="ch15s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / 列表综合">        <param name="Local" value="ch15s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / 在函数中接收元组和列表">        <param name="Local" value="ch15s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / lambda形式">        <param name="Local" value="ch15s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / exec和eval语句">        <param name="Local" value="ch15s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / assert语句">        <param name="Local" value="ch15s07.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / repr函数">        <param name="Local" value="ch15s08.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 更多Python的内容 / 概括">        <param name="Local" value="ch15s09.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 接下来学习什么？ / 图形软件">        <param name="Local" value="ch16.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 接下来学习什么？ / 探索更多内容">        <param name="Local" value="ch16s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 接下来学习什么？ / 概括">        <param name="Local" value="ch16s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程">        <param name="Local" value="index.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 前言 / 本书的读者">        <param name="Local" value="pr01.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 前言 / 本书的由来">        <param name="Local" value="pr01s02.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 前言 / 本书目前的状况">        <param name="Local" value="pr01s03.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 前言 / 官方网站">        <param name="Local" value="pr01s04.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 前言 / 约定条款">        <param name="Local" value="pr01s05.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 前言 / 反馈">        <param name="Local" value="pr01s06.html">        </OBJECT>
+    <LI> <OBJECT type="Text/sitemap">        <param name=" Name" value="简明 Python 教程 / 前言 / 值得思考的一些东西">        <param name="Local" value="pr01s07.html">        </OBJECT>
+</UL>
+</BODY></HTML>
